@@ -10,23 +10,24 @@ VxWorks comes with the kernel, middleware, board support packages, Wind River Wo
 
 ### History of VxWorks
 
-1980s: VxWorks adds support for 32-bit processors.
-1990s: VxWorks 5 becomes the first RTOS with a networking stack.
-2000s: VxWorks 6 supports SMP and adds derivative industry-specific platforms.
-2010s: VxWorks adds support for 64-bit processing and introduces VxWorks 7 for IoT in 2016.
+0. 1980s: VxWorks adds support for 32-bit processors.
+1. 1990s: VxWorks 5 becomes the first RTOS with a networking stack.
+2. 2000s: VxWorks 6 supports SMP and adds derivative industry-specific platforms.
+3. 2010s: VxWorks adds support for 64-bit processing and introduces VxWorks 7 for IoT in 2016.
 
 ### features
-64-bit operating system (only one 64-bit architecture supported: x86-64)
-User-mode applications ("Real-Time Processes", or RTP)
-SMP, AM
-Error handling framework
-Bluetooth, USB
-distributed message queues
-File systems: High Reliability File System, FAT-based file system, Network File System (NFS) Dual-mode IPv6 networking stack with IPv6 Ready Logo certificationMemory protection including real-time processes (RTPs), error detection and reporting, and IPC
-Multi-OS messaging using TIPC and Wind River multi-OS IPC
-Human machine interface with Vector Graphics
-Graphical user interface (GUI)
-Connectivity with Bluetooth and SocketCAN protocol stacks
+4. 64-bit operating system (only one 64-bit architecture supported: x86-64)
+5. User-mode applications ("Real-Time Processes", or RTP)
+6. SMP, AM
+7. Error handling framework
+8. Bluetooth, USB
+9. distributed message queues
+10. File systems: High Reliability File System, FAT-based file system, Network File System
+11. Dual-mode IPv6 networking stack with IPv6 Ready Logo certification
+12. Memory protection including real-time processes, error detection and reporting
+13. Human machine interface with Vector Graphics
+14. Graphical user interface (GUI)
+15. Connectivity with Bluetooth and SocketCAN protocol stacks
 
 ### interesting details
 
